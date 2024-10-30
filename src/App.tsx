@@ -1,10 +1,11 @@
 
+import ChatCard from './components/ChatCard';
 import './index.css'
 
 
 function App() {
 
-  return <div />;
+  return ChatCard;
 }
 
 export default App;
